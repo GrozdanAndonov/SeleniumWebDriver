@@ -105,3 +105,4 @@ C:\Users\grozd\Desktop\eee\08-Exercise-CI-CD-GitHub-Actions-Resources\06-Seleniu
 C:\Users\grozd\Desktop\eee\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\grozd\Desktop\eee\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\grozd\Desktop\eee\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\grozd\Desktop\eee\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.sourcelink.json
