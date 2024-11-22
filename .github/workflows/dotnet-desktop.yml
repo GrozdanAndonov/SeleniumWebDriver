@@ -21,9 +21,9 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
     - name: Install dependencies
-      run: dotnet restore SeleniumBasicExcercise.sln
+      run: dotnet restore SeleniumBasicExercise.sln
     - name: Build
-      run: dotnet build SeleniumBasicExcercise.sln --no-restore
+      run: dotnet build SeleniumBasicExercise.sln --no-restore
     - name: Run TestProject1 tests
       env: 
         CRHOMEWEBDRIVER: /usr/bin/google-chrome
